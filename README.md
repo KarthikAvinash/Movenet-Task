@@ -14,7 +14,7 @@ The "basic programs" folder contains foundational code (both ".py" and ".ipynb" 
 #### Model Source
 The source of the MoveNet Lightning model `4.tflite` used in this project is given below. It provides information about the inputs, outputs, and keypoint definitions.
 
-    - [MoveNet Lightning Model](https://www.kaggle.com/models/google/movenet/tfLite/singlepose-lightning-tflite-float16)
+- [MoveNet Lightning Model](https://www.kaggle.com/models/google/movenet/tfLite/singlepose-lightning-tflite-float16)
 
 ### Tkinter Application
 The "Tkinter Application" directory hosts a Tkinter-based GUI application for pose detection. It allows users to set the confidence threshold within the window and displays the pose detection results in real-time.
