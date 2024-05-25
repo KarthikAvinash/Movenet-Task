@@ -21,13 +21,14 @@ The "Tkinter Application" directory hosts a Tkinter-based GUI application for po
 
 #### Usage
 To run the Tkinter application, execute the script `tkinter_pose_detection.py`. Adjust the confidence threshold using the provided input field. The application will display the pose detection output on the live video feed.
-    
-    - To run the script:
+- To run the script:
         
-    ```bash
-        cd "Tkinter Application"
-        python tkinter_pose_detection.py
-    ```
+```bash
+    cd "Tkinter Application"
+    python tkinter_pose_detection.py
+```
+
+![demo_image](outputs/image4.png)
 
 ![tkinter_demo](<outputs/demo.gif>)
 
