@@ -1,0 +1,6 @@
+Use this article as a reference
+
+    - https://blog.tensorflow.org/2021/05/next-generation-pose-detection-with-movenet-and-tensorflowjs.html
+
+Get access to live video using webRTC and perform movenet pose 
+estimation and get the keypoints, output it on the same screen.
